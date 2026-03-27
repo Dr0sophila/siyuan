@@ -13,9 +13,9 @@ title                    : "Siyuan Pan"
 title_separator          : "-"
 name                     : &name "Siyuan Pan"
 description              : &description "Ph.D. student in Electrical and Computer Engineering at the University of Florida"
-url                      : "https://academicpages.github.io"   # change this to your actual site URL
-baseurl                  : ""                                  # keep "" unless your site is in a subdirectory
-repository               : "Dr0sophila/Dr0sophila.github.io"   # change to your actual repo name
+url                      : "https://dr0sophila.github.io"
+baseurl                  : "/siyuan"
+repository               : "Dr0sophila/siyuan"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
