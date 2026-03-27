@@ -7,7 +7,7 @@ excerpt: 'we propose a Deterministic World Model (DWM) that maps system states d
 date: 2025-12-08
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://dr0sophila.github.io/files/Deterministic World Models for Verification of Closed-loop Vision-based Systems.pdf'
+paperurl: 'https://dr0sophila.github.io/files/Deterministic_World_Models_for_Verification_of_Closed-loop_Vision-based_Systems.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
