@@ -6,7 +6,7 @@ permalink: /publication/Four_Principles_for_Physically_Interpretable_World_Model
 excerpt: 'This paper opens several intriguing research directions to achieve and capitalize on full physical interpretability in world models.'
 date: 2025-03-04
 # venue: 'Journal 1'
-paperurl: 'https://dr0sophila.github.io/files/Four_Principles_for_Physically_Interpretable_World_Models.pdf'
+paperurl: 'https://dr0sophila.github.io/siyuan/files/Four_Principles_for_Physically_Interpretable_World_Models.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
