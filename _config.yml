@@ -9,73 +9,72 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "潘思源"
+title                    : "Siyuan Pan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Dr0sophila?tab=repositories"
+name                     : &name "Siyuan Pan"
+description              : &description "Ph.D. student in Electrical and Computer Engineering at the University of Florida"
+url                      : "https://academicpages.github.io"   # change this to your actual site URL
+baseurl                  : ""                                  # keep "" unless your site is in a subdirectory
+repository               : "Dr0sophila/Dr0sophila.github.io"   # change to your actual repo name
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Siyuan Pan"
-  pronouns         : # example: "she/her"  
-  bio              : "A CS student, interested on machine learning and computer vision"
-  location         : "Florida"
+  pronouns         :
+  bio              : "First-year Ph.D. student in Electrical and Computer Engineering at the University of Florida. Research interests: lightning, atmospheric electricity, and machine learning."
+  location         : "Gainesville, Florida"
   employer         : "University of Florida"
-  uri              : # URL
-  email            : "pansiyuan@ufl.edu" 
+  uri              :
+  email            : "pansiyuan@ufl.edu"
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         :
+  arxiv            :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=C1hN6msAAAAJ"
-  impactstory      : # URL
-  orcid            : 
-  semantic         : # URL
-  pubmed           : 
-  researchgate     : # URL
-  scopus           : # URL
+  impactstory      :
+  orcid            :
+  semantic         :
+  pubmed           :
+  researchgate     :
+  scopus           :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "Dr0sophila?tab=repositories"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "Dr0sophila"
+  kaggle           :
+  stackoverflow    :
 
   # Social media
-  bluesky          :  # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
-
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:

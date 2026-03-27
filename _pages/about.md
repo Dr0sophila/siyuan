@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-I am a 2nd year M.S. student in Computer Science at the University of Florida. Before this, I received my B.Eng. degree in Computer Science from Fuzhou University in 2022.
+I am a first-year Ph.D. student in Electrical and Computer Engineering at University of Florida. I received my M.S. degree in Computer Science from the University of Florida in 2026, and my B.Eng. degree in Computer Science from Fuzhou University in 2022.
 
-My research interest lies in deep learning and generative models.
+My research interests are in lightning, atmospheric electricity, and machine learning.
 
-I’m always excited to explore collaborative opportunities - feel free to reach out!
+I am always open to collaborative opportunities—please feel free to reach out.
