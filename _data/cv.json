@@ -21,7 +21,7 @@
       {
         "network": "ORCID",
         "username": "",
-        "url": ""
+        "url": "https://orcid.org/my-orcid?orcid=0009-0000-5915-5400"
       },
       {
         "network": "GitHub",
@@ -34,8 +34,8 @@
   "education": [
     {
       "institution": "University of Florida",
-      "area": "Ph.D. in Electrical and Computer Engineering",
-      "studyType": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Ph.D.",
       "startDate": "2026",
       "endDate": "",
       "gpa": null,
@@ -45,30 +45,21 @@
       "institution": "University of Florida",
       "area": "M.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2024",
       "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "Fuzhou University",
-      "area": "B.Eng. in Computer Science",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2022",
-      "gpa": null,
+      "area": "Computer Science",
+      "studyType": "B.Eng.",
+      "startDate": "2020",
+      "endDate": "2024",
       "courses": []
     }
   ],
   "skills": [
-    {
-      "name": "Research Areas",
-      "keywords": [
-        "Lightning",
-        "Atmospheric Electricity",
-        "Machine Learning"
-      ]
-    }
   ],
   "languages": [],
   "interests": [
