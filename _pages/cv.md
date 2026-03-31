@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of Florida, 2026(expected)
+* M.S. in Computer Science, University of Florida, 2026
 * B.S. in Computer Science, Fuzhou University, 2020
 
 Work experience
